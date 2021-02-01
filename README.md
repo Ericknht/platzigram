@@ -1,10 +1,10 @@
 # platzigram
 Create an instagram clon with django in platzi's django course.
 
-# Dependencies
+## Dependencies
 Python 3 and Django
 
-# Usage
+## Usage
 ```
 python3 -m venv .env
 source .env/bin/activate
